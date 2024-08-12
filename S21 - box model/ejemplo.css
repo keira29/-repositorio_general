@@ -1,0 +1,41 @@
+body{
+    background-color:#E0E0E0;
+    border: #616161 solid;
+    display:block;
+    height: 900px;
+    margin: 90px;
+    background-image: url(https://i.pinimg.com/564x/72/f1/80/72f1806a85194eb14197e9b80714f2e1.jpg); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: right;
+}
+.lo{
+    display: inline-block;
+    border: 2px #424242 groove;
+    width: 355px;
+    margin: 5px;
+    margin-bottom: 25px;
+}
+.li{
+    display: inline-block;
+    border: 2px #424242 groove;
+    width: 300px;
+    margin: 5px;
+    margin-bottom: 25px;
+}
+p{
+    display: block;
+    border: 5px #424242 dashed;
+    background-color:#BDBDBD ;
+    margin: 5px;
+    width: 500px;
+    
+
+}
+h1{
+    margin: 5px;
+    display: block;
+    color: #263238;
+    border :5px #78909C inset;
+    margin-bottom: 25px;
+}

@@ -1,0 +1,14 @@
+.principal{
+    background-color: rgb(248, 185, 164);
+    margin: auto;
+    width: 50%;
+    padding: 40px ;
+    text-align: center;
+    height: 300px;
+    border-radius: 10px;
+    color: rgb(223, 102, 62);
+}
+.opcion{
+    background-color: rgb(245, 210, 178);
+    color: brown;
+}

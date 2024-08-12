@@ -1,0 +1,26 @@
+.box1,
+.box6 {
+    display: block;
+    height: 50px;
+    background-color: #4DB6AC;
+    border: 1px #37474F solid;
+
+}
+
+.box2,
+.box3,
+.box4,
+.box5 {
+    display: inline-block;
+    height: 50px;
+    width: 25%;
+    border: 1px #37474F solid;
+    background-color: #BBDEFB;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
